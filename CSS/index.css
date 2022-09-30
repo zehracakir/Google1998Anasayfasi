@@ -1,0 +1,36 @@
+.bgray {
+    background-color: #EEEEEE;
+    width: 10%;
+}
+
+.bgreen {
+    width: 10%;
+    background: #7EE5DA;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bgreen1 {
+    width: 5%;
+    background: #70CCC2;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
+.bgreen2 {
+    width: 11%;
+    background: #62B3AA;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: small;
+}
+
+.ortala {
+    margin: auto;
+    text-align:center; 
+    width:1330px;
+  
+}
+.boyut {
+    font-size: small;
+}
